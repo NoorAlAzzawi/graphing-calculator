@@ -1,0 +1,10 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.test.config": {
+        "name": "JUnit",
+        "projectName": "calculatordemo2",
+        "workingDirectory": "${workspaceFolder}",
+        "args": []
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
