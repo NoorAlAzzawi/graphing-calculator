@@ -14,7 +14,7 @@ Features advanced mathematical functions, trigonometry, logarithms, and constant
 ## How to Run
 1. Build:
    ```bash
-   ./gradlew build
+      ./gradlew build
 2. Run:
 ./gradlew run
 
